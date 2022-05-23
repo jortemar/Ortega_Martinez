@@ -34,6 +34,7 @@ public class Martinez {
         b=entrada.nextLine();
         
         System.out.println (a + b);
+    }
         
      public static int multiplicacion (int num1, int num2){
         
