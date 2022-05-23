@@ -15,4 +15,14 @@ public class Ortega {
         return num1 + num2;
     }
     
+ public static String pintar_casa (String color){
+        
+        return "La casa es " + color;
+    }
+    
+    public static String saludar (String nombre){
+        
+        return "¡Hola " + nombre + "!";
+    }
+
 }
