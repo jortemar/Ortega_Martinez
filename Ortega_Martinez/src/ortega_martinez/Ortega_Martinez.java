@@ -22,6 +22,8 @@ public class Ortega_Martinez {
         System.out.println("La suma da " + resultado_suma);
         System.out.println("La resta da " + resultado_resta);
         
+       //José Ortega Martínez
+       
     }
     
 }
