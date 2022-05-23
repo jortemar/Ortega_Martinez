@@ -10,11 +10,18 @@ package ortega_martinez;
  */
 public class Ortega_Martinez {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        int resultado_suma;
+        int resultado_resta;
+        
+        resultado_suma = Ortega.suma(3,5);
+        resultado_resta = Martinez.resta(8,2);
+        
+        System.out.println("La suma da " + resultado_suma);
+        System.out.println("La resta da " + resultado_resta);
+        
     }
     
 }

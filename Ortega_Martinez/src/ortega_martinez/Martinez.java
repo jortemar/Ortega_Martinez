@@ -10,4 +10,9 @@ package ortega_martinez;
  */
 public class Martinez {
     
+    public static int resta (int num1, int num2){
+        
+        return num1 - num2;
+    }
+    
 }
