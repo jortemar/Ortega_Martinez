@@ -35,6 +35,14 @@ public class Martinez {
         
         System.out.println (a + b);
         
+     public static int multiplicacion (int num1, int num2){
+        
+        return num1 * num2;
+    }
+    
+    public static float division (int num1, int num2){
+        
+        return num1/num2;
     }
     
 }

@@ -50,4 +50,14 @@ public class Ortega {
         
     }
    
+ public static String pintar_casa (String color){
+        
+        return "La casa es " + color;
+    }
+    
+    public static String saludar (String nombre){
+        
+        return "¡Hola " + nombre + "!";
+    }
+
 }
